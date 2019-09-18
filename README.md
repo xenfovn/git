@@ -49,7 +49,7 @@ static boolean SngineApp_CERT_VERIFICATION   = true    //verify whether HTTPS po
 #### Configuration variables
 Complete URL of your website, landing page or local file as `file:///android_res/dir/file.html`
 ```kotlin
-Sngine_URL      = "https://demo.sngine.com"    //domain, or directory or locating to any root file
+Sngine_URL      = "https://xenfovn.com"    //domain, or directory or locating to any root file
 ```
 
 If file upload enabled, you can define its extention type, default is `*/*` for all file types;
